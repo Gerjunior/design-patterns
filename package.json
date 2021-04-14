@@ -1,0 +1,13 @@
+{
+  "name": "design-patterns",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.test.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
